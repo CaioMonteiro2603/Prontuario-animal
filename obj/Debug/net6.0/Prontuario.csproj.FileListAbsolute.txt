@@ -1,0 +1,15 @@
+C:\Users\lucia\documentos\.NET\Prontuario\Prontuario\bin\Debug\net6.0\Prontuario.exe
+C:\Users\lucia\documentos\.NET\Prontuario\Prontuario\bin\Debug\net6.0\Prontuario.deps.json
+C:\Users\lucia\documentos\.NET\Prontuario\Prontuario\bin\Debug\net6.0\Prontuario.runtimeconfig.json
+C:\Users\lucia\documentos\.NET\Prontuario\Prontuario\bin\Debug\net6.0\Prontuario.dll
+C:\Users\lucia\documentos\.NET\Prontuario\Prontuario\bin\Debug\net6.0\Prontuario.pdb
+C:\Users\lucia\documentos\.NET\Prontuario\Prontuario\obj\Debug\net6.0\Prontuario.csproj.AssemblyReference.cache
+C:\Users\lucia\documentos\.NET\Prontuario\Prontuario\obj\Debug\net6.0\Prontuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucia\documentos\.NET\Prontuario\Prontuario\obj\Debug\net6.0\Prontuario.AssemblyInfoInputs.cache
+C:\Users\lucia\documentos\.NET\Prontuario\Prontuario\obj\Debug\net6.0\Prontuario.AssemblyInfo.cs
+C:\Users\lucia\documentos\.NET\Prontuario\Prontuario\obj\Debug\net6.0\Prontuario.csproj.CoreCompileInputs.cache
+C:\Users\lucia\documentos\.NET\Prontuario\Prontuario\obj\Debug\net6.0\Prontuario.dll
+C:\Users\lucia\documentos\.NET\Prontuario\Prontuario\obj\Debug\net6.0\refint\Prontuario.dll
+C:\Users\lucia\documentos\.NET\Prontuario\Prontuario\obj\Debug\net6.0\Prontuario.pdb
+C:\Users\lucia\documentos\.NET\Prontuario\Prontuario\obj\Debug\net6.0\Prontuario.genruntimeconfig.cache
+C:\Users\lucia\documentos\.NET\Prontuario\Prontuario\obj\Debug\net6.0\ref\Prontuario.dll
